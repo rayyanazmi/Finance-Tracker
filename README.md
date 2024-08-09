@@ -2,7 +2,7 @@
 
 ## Overview
 
-The Finance Management System is a simple, command-line-based application written in Python 3. It allows users to manage their finances by recording income and expenses, categorizing transactions, setting budgets, tracking recurring expenses, and more. This project is ideal for those who want to learn the basics of Python programming while also keeping track of their personal finances.
+The Finance Management System is a simple, command-line-based application written in Python 3. It allows users to manage their finances by recording income and expenses, categorizing transactions, setting budgets, tracking recurring expenses, and more. This project is ideal for those who want to keep a track of their personal finances.
 
 ## Features
 
